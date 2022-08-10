@@ -1,0 +1,14 @@
+UO_PostInc          : Result := 'UO_PostInc';
+UO_PostDec          : Result := 'UO_PostDec';
+UO_PreInc           : Result := 'UO_PreInc';
+UO_PreDec           : Result := 'UO_PreDec';
+UO_AddrOf           : Result := 'UO_AddrOf';
+UO_Deref            : Result := 'UO_Deref';
+UO_Plus             : Result := 'UO_Plus';
+UO_Minus            : Result := 'UO_Minus';
+UO_Not              : Result := 'UO_Not';
+UO_LNot             : Result := 'UO_LNot';
+UO_Real             : Result := 'UO_Real';
+UO_Imag             : Result := 'UO_Imag';
+UO_Extension        : Result := 'UO_Extension';
+UO_Coawait          : Result := 'UO_Coawait';
